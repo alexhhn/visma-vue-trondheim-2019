@@ -24,3 +24,9 @@ npm run test
 ```
 npm run lint
 ```
+
+### Komponenter man kan velge å bruke 
+https://epic-spinners.epicmax.co/<br>
+https://vue-scrollama.now.sh<br>
+https://vue-burger-menu.netlify.com<br>
+https://madewithvuejs.com/<br>
